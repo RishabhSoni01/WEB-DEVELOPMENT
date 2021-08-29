@@ -1,0 +1,48 @@
+.container{
+       
+        background-color: rgb(243, 9, 9);  
+        border: 2px solid black;
+        padding: 2px;
+        margin: 2px;
+        width: 122px;
+        height: 122px;
+}
+
+.fullcontainer{
+    border-color: crimson;
+    display:flex;
+    flex-direction:row;
+    justify-items:center;
+    text-align:start;
+    border: 2px solid blue;
+    align-items:center;
+    justify-content: space-evenly;
+    background-color: chartreuse;
+    height: 95vh;
+    flex-wrap: wrap;
+    flex-flow: row;
+}
+.item1
+{
+    order:2;
+    align-self:start;
+}
+.item2
+{
+    order:4;
+    align-self: start;
+}
+.item3
+{
+    order: 1;
+    align-self:flex-end;
+}
+.item4{
+    order: 3;
+    align-self: flex-end;
+}
+.item5
+{
+    order: 0;
+    align-self: start;
+}
