@@ -3,7 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:\\Program Files (x86)\\mingw-w64-v9.0.0\\mingw-w64-headers\\include"
+                "C:\\Users\\Rishabh\\Downloads\\mingw-w64-v9.0.0"
             ],
             "defines": [
                 "_DEBUG",
